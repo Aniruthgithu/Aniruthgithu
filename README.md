@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:07111F,50:063B55,100:00E5FF&height=180&section=header&text=BUILD%20%7C%20SHIP%20%7C%20REPEAT&fontSize=34&fontColor=FFFFFF&fontAlignY=42&animation=fadeIn" width="100%"/>
 
-### `ASPIRING SOFTWARE DEVELOPER • VIBE CODER • BACKEND ENTHUSIAST`
+### `ASPIRING SOFTWARE DEVELOPER • JAVA DEVELOPER • BACKEND ENTHUSIAST`
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=750&lines=Turning+ideas+into+working+software;Building+with+Java+%2B+Spring+Boot;Designing+database-driven+applications;Learning+%E2%80%A2+Building+%E2%80%A2+Deploying+%E2%80%A2+Improving" alt="Typing animation"/>
 
