@@ -62,23 +62,31 @@ I also enjoy experimenting with new technologies and learning by building real p
 
 ## 🏆 `EXPERIENCE & ACHIEVEMENTS`
 
-```text
-┌─────────────────────────────────────────────────────────────────────────────┐
-│                                                                             |
-│  💼 INTERNSHIP                                                              
-│  ───────────────────────────────────────────────────────────────────────── │
-│  Completed a software/technology internship with practical exposure to     │
-│  IoT and Full Stack Development. Worked with Python, FastAPI, Django,     │
-│  MySQL and application development concepts.                               │
-│                                                                             │
-│  🚀 HACKATHONS & COMPETITIONS                                              │
-│  ───────────────────────────────────────────────────────────────────────── │
-│  • Participated in Hackathon 360 and qualified for the second round        │
-│  • Participated in Smart India Hackathon (SIH) 2025                        │
-│  • Won 2nd position in an Ad Zap competition                              │
-│                                                                             │
-└─────────────────────────────────────────────────────────────────────────────┘
-```
+<table>
+<tr>
+<td width="100%">
+
+<h3>💼 INTERNSHIP</h3>
+
+<p>
+Completed a software/technology internship with practical exposure to
+<strong>IoT and Full Stack Development</strong>. Worked with
+<strong>Python, FastAPI, Django, MySQL</strong> and application development concepts.
+</p>
+
+<hr>
+
+<h3>🚀 HACKATHONS & COMPETITIONS</h3>
+
+<ul>
+<li>Participated in <strong>Hackathon 360</strong> and qualified for the second round</li>
+<li>Participated in <strong>Smart India Hackathon (SIH) 2025</strong></li>
+<li>Won <strong>2nd position</strong> in an Ad Zap competition</li>
+</ul>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -92,7 +100,7 @@ I also enjoy experimenting with new technologies and learning by building real p
 
 </div>
 
-> **I learn fastest when I build.**
+
 
 
 ---
@@ -303,27 +311,29 @@ Web utility for working with and converting Excel-related data.
               └───────────────┘
 ```
 
+
 ---
 
 ## 📈 `GITHUB ACTIVITY`
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aniruthgithu&bg_color=07111F&color=FFFFFF&line=00E5FF&point=FFFFFF&area=true&hide_border=true" width="95%"/>
+### `CODING • BUILDING • CONTRIBUTING`
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Aniruthgithu&show_icons=true&hide_border=true&bg_color=07111F&title_color=00E5FF&icon_color=00E5FF&text_color=FFFFFF&rank_icon=github" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniruthgithu&layout=compact&hide_border=true&bg_color=07111F&title_color=00E5FF&text_color=FFFFFF" height="170"/>
+<a href="https://github.com/Aniruthgithu">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aniruthgithu&bg_color=0D1117&color=00E5FF&line=00E5FF&point=FFFFFF&area=true&hide_border=true" width="95%">
+</a>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=Aniruthgithu&theme=dark&hide_border=true&background=07111F&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF" width="70%"/>
+<a href="https://github.com/Aniruthgithu?tab=repositories">
+<img src="https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-00E5FF?style=for-the-badge&logo=github&logoColor=0D1117">
+</a>
 
 </div>
 
----
 
 ## 🎯 `CURRENTLY BUILDING MYSELF`
 
